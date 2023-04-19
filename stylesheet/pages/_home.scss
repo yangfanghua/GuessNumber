@@ -1,0 +1,7 @@
+.card{
+    box-shadow: 3px 4px 3px #0f0f0f;
+    transition: 0.3s;
+}
+.card:hover{
+    scale:1.05; //滑鼠觸碰到就會放大
+}
